@@ -1940,7 +1940,9 @@ p {
 
 .link-2 {
   position: relative;
-  left: 16px;
+  left: 33px;
+  padding-right: 21px;
+  padding-left: 21px;
   color: grey;
   text-decoration: none;
 }
