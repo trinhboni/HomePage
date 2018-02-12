@@ -1227,6 +1227,10 @@ p {
   padding-left: 5%;
 }
 
+.storyboard_div.moodboard._6word_div1 {
+  margin-top: 0%;
+}
+
 .storyboard_div.mr_page_3 {
   margin-top: 5%;
 }
@@ -1240,6 +1244,10 @@ p {
 }
 
 .storyboard_div.mr_page.spectrum_div {
+  margin-top: 0%;
+}
+
+.storyboard_div._6word_div2 {
   margin-top: 0%;
 }
 
@@ -1734,6 +1742,10 @@ p {
 
 .image-15.workpage_box {
   margin-top: 0px;
+}
+
+.image-15.playbox_2 {
+  box-shadow: 0 0 30px 3px #ededed;
 }
 
 .image-15.spetrum_2:hover {
@@ -2529,8 +2541,8 @@ p {
     margin-left: auto;
   }
   .div-block-17 {
-    padding-right: 0%;
-    padding-left: 0%;
+    padding-right: 5%;
+    padding-left: 5%;
   }
   .heading-8 {
     position: relative;
@@ -2578,6 +2590,9 @@ p {
     left: NaNpx;
     float: right;
   }
+  .text-block-7.ideation.div_23 {
+    top: 53px;
+  }
   .text-block-7.intro_heading {
     position: relative;
     left: -5px;
@@ -2614,6 +2629,10 @@ p {
     left: 91px;
     top: 20px;
   }
+  .paragraph-2.h9.mobile.div_23 {
+    left: 10px;
+    top: 14px;
+  }
   .paragraph-2.h9.a {
     top: -67px;
   }
@@ -2647,6 +2666,9 @@ p {
   }
   .sketches_div {
     height: 500px;
+  }
+  .sketches_div.mr_page_2 {
+    height: auto;
   }
   .storyboard_div {
     height: 500px;
@@ -2690,6 +2712,9 @@ p {
     height: 300px;
     margin-top: 25px;
     margin-bottom: 5%;
+  }
+  .slider-1.research_slide {
+    height: 300px;
   }
   .slide-2.initialsketches_slide {
     background-size: 75%;
@@ -2751,6 +2776,10 @@ p {
   }
   .ae_div.mr_page {
     margin-bottom: 38px;
+  }
+  .div-block-29 {
+    padding-right: 0%;
+    padding-left: 0%;
   }
   .div-block-32 {
     padding-right: 18%;
@@ -3225,6 +3254,7 @@ p {
     width: 100%;
     margin-top: 0%;
     margin-bottom: 42px;
+    padding-top: 0px;
     padding-right: 0%;
     padding-left: 0px;
     float: left;
@@ -3595,6 +3625,9 @@ p {
   .text-block-7.ideation.spectrum_color._1234 {
     text-align: center;
   }
+  .text-block-7.ideation.div_23._222 {
+    top: 0px;
+  }
   .text-block-7.intro_heading {
     width: 100%;
     margin-top: 67px;
@@ -3650,6 +3683,9 @@ p {
     position: relative;
     left: 0px;
     top: 0px;
+  }
+  .paragraph-2.h9.mobile.div_23 {
+    top: 21px;
   }
   .paragraph-2.h9.a {
     top: 26px;
@@ -3852,6 +3888,9 @@ p {
     padding-right: 11%;
     padding-left: 11%;
   }
+  .ae_div.mr_page._33 {
+    margin-top: 10%;
+  }
   .image-12 {
     width: 100%;
   }
@@ -4038,6 +4077,7 @@ p {
   }
   .heading-10 {
     top: 65px;
+    margin-top: 0px;
     margin-right: auto;
     margin-left: auto;
     padding-right: auto;
@@ -4114,7 +4154,7 @@ p {
     top: 19%;
     padding-right: 25px;
     padding-left: 25px;
-    font-size: 12px;
+    font-size: 10px;
     text-align: center;
   }
   .link-4.w--current:hover {
