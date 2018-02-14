@@ -1815,7 +1815,7 @@ p {
   font-family: 'Avenir 09', sans-serif;
   color: #096d6d;
   font-size: 1.15em;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-4:hover {
@@ -1825,7 +1825,7 @@ p {
 
 .nav-link-4.mr_page {
   color: #0e7090;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-4.mr_page.aboutme_nav {
@@ -1847,7 +1847,7 @@ p {
   font-family: 'Avenir 09', sans-serif;
   color: grey;
   font-size: 1.15em;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-5:hover {
@@ -1857,7 +1857,7 @@ p {
 
 .nav-link-5.mr_page {
   color: grey;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-5.mr_page.aboutme_nav {
@@ -1877,7 +1877,7 @@ p {
   font-family: 'Avenir 09', sans-serif;
   color: #096d6d;
   font-size: 1.15em;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-6:hover {
@@ -1888,7 +1888,7 @@ p {
 .nav-link-6.mr_page {
   margin-right: 0px;
   color: #0e7090;
-  letter-spacing: 0.5px;
+  letter-spacing: 1px;
 }
 
 .nav-link-6.mr_page.aboutme_nav {
@@ -3254,7 +3254,7 @@ p {
     display: -ms-flexbox;
     display: flex;
     width: 100%;
-    margin-top: 0%;
+    margin-top: -8%;
     margin-bottom: 42px;
     padding-top: 0px;
     padding-right: 0%;
@@ -3309,8 +3309,9 @@ p {
   .image {
     width: 100%;
     max-width: 50vw;
+    margin-top: 4%;
     margin-bottom: 17px;
-    margin-left: 25%;
+    margin-left: 23%;
   }
   .heading {
     width: 100%;
@@ -3370,7 +3371,7 @@ p {
     padding: 27% 24px 42%;
   }
   .work_3.project_1 {
-    margin-top: 13%;
+    margin-top: 23%;
     padding-bottom: 35%;
   }
   .container-4 {
@@ -4000,6 +4001,9 @@ p {
   }
   .link-2 {
     left: 28px;
+  }
+  .link-2.link3 {
+    left: 44px;
   }
   .section-11 {
     padding-right: 24px;
