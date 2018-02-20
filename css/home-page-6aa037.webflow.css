@@ -2486,6 +2486,11 @@ p {
   font-weight: 400;
 }
 
+.link-8 {
+  color: #b9b4b4;
+  text-decoration: underline;
+}
+
 @media (max-width: 991px) {
   .navbar {
     padding-top: 0px;
