@@ -1126,6 +1126,13 @@ p {
 
 .div-block-23.story_board_divv {
   margin-top: 0%;
+  padding-right: 6%;
+  padding-left: 5%;
+}
+
+.div-block-23.story_board_divv._22 {
+  padding-right: 0%;
+  padding-left: 0%;
 }
 
 .link.heading-6 {
@@ -1233,6 +1240,9 @@ p {
 
 .storyboard_div.mr_page_3 {
   margin-top: 5%;
+  font-family: 'Changa One', Impact, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.5px;
 }
 
 .storyboard_div.mr_page_3.resear-ch_section {
@@ -1252,7 +1262,7 @@ p {
 }
 
 .paragraph-3 {
-  width: 50%;
+  width: 65%;
   font-family: 'Avenir 07', sans-serif;
   color: grey;
   font-size: 110%;
@@ -1372,6 +1382,10 @@ p {
   background-image: url('../images/ezgif.com-crop.gif');
 }
 
+.slide-2.storyboard_slider.mr_storyboard_1.wireframe1 {
+  background-image: url('../images/BNW_2.png');
+}
+
 .slide-2.mr_story_board_digital {
   background-image: url('../images/1_2.png');
 }
@@ -1382,6 +1396,10 @@ p {
 
 .slide-2.mr_story_board_digital.code_1 {
   background-image: url('../images/123.PNG');
+}
+
+.slide-2.mr_story_board_digital.mockup1 {
+  background-image: url('../images/MK_22.png');
 }
 
 .slide-2.research_slide1 {
@@ -1474,9 +1492,20 @@ p {
   background-image: url('../images/2_1.PNG');
 }
 
+.slide-3.mockup_2.mr_slide.mockup2 {
+  background-image: url('../images/MK_11.png'), url('../images/example-bg.png');
+  background-position: 50% 50%, 0px 0px;
+  background-size: contain, 125px;
+  background-repeat: no-repeat, no-repeat;
+}
+
 .slide-3.mr_storyboard {
   background-image: url('../images/IMG-3813.JPG');
   background-position: 50% 50%;
+}
+
+.slide-3.mr_storyboard.wireframe2 {
+  background-image: url('../images/BNW_1.png');
 }
 
 .slide-3.research_slide2 {
@@ -2009,10 +2038,15 @@ p {
   width: 100%;
 }
 
+.image-18.mr_sketch {
+  left: 0px;
+  width: 50%;
+}
+
 .div-block-37 {
   margin-top: 54px;
   padding-right: 4%;
-  padding-left: 4%;
+  padding-left: 0%;
 }
 
 .div-block-37.experienece {
@@ -2268,7 +2302,7 @@ p {
   left: 21px;
   top: 240px;
   display: inline-block;
-  background-image: url('../images/Asset-1_1.png');
+  background-image: url('../images/Asset-1_2.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2389,6 +2423,67 @@ p {
 
 .container-15 {
   margin-top: 71px;
+}
+
+.slide-11 {
+  background-image: url('../images/primary-research-1.png');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.slide-12 {
+  background-image: url('../images/primary-research-2.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-13 {
+  background-image: url('../images/personaaa.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-14 {
+  background-image: url('../images/FRAEWORK.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.slide-15 {
+  background-image: url('../images/1_1.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.image-34 {
+  width: 50%;
+}
+
+.wireframe2 {
+  background-image: url('../images/BNW_1.png');
+  background-position: 50% 50%;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.bold-text {
+  font-family: 'Changa One', Impact, sans-serif;
+  font-weight: 400;
+}
+
+.bold-text-2 {
+  font-family: 'Changa One', Impact, sans-serif;
+  font-weight: 400;
+}
+
+.bold-text-3 {
+  font-family: 'Changa One', Impact, sans-serif;
+  font-weight: 400;
 }
 
 @media (max-width: 991px) {
