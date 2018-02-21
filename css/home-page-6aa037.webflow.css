@@ -23,6 +23,12 @@ p {
   font-family: 'Open Sans', sans-serif;
 }
 
+.header {
+  padding-bottom: 0px;
+  background-image: -webkit-linear-gradient(270deg, transparent, transparent);
+  background-image: linear-gradient(180deg, transparent, transparent);
+}
+
 .home_page {
   padding-top: 237px;
 }
@@ -629,11 +635,11 @@ p {
 }
 
 .text-block-5.mr_tag {
-  color: rgba(0, 151, 156, .52);
+  color: #23797c;
 }
 
 .text-block-5.mr_tag.spectrum_h2 {
-  color: rgba(73, 115, 158, .41);
+  color: #49739e;
 }
 
 .text-block-6 {
@@ -1873,6 +1879,8 @@ p {
   border-width: 3px 3px 4px;
   border-bottom-style: solid;
   border-bottom-color: transparent;
+  -webkit-transition: all 400ms ease;
+  transition: all 400ms ease;
   font-family: 'Avenir 09', sans-serif;
   color: grey;
   font-size: 1.15em;
@@ -1880,7 +1888,7 @@ p {
 }
 
 .nav-link-5:hover {
-  border-color: rgba(0, 0, 0, .05);
+  border-color: rgba(0, 0, 0, .05) rgba(0, 0, 0, .05) rgba(0, 0, 0, .03);
   color: #096d6d;
 }
 
@@ -1903,6 +1911,8 @@ p {
   padding-bottom: 15px;
   padding-left: 0px;
   border-bottom: 4px solid transparent;
+  -webkit-transition: all 400ms ease;
+  transition: all 400ms ease;
   font-family: 'Avenir 09', sans-serif;
   color: #096d6d;
   font-size: 1.15em;
@@ -1963,17 +1973,25 @@ p {
 
 .text-span-8 {
   display: inline-block;
-  padding-right: 17px;
-  padding-left: 17px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .link-2 {
   position: relative;
-  left: 33px;
+  left: 47px;
   padding-right: 21px;
   padding-left: 21px;
   color: grey;
   text-decoration: none;
+}
+
+.link-2.spectrum_2.link3 {
+  left: 47px;
+}
+
+.link-2.link3 {
+  left: 47px;
 }
 
 .section-11 {
@@ -2028,7 +2046,7 @@ p {
 
 .image-18.spectrum_sketch.experience {
   left: 0px;
-  top: 3px;
+  top: 0px;
   display: inline-block;
   width: 50%;
 }
@@ -2166,6 +2184,15 @@ p {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+}
+
+.container-13.h32 {
+  position: static;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 9%;
 }
 
 .image-23 {
