@@ -692,7 +692,7 @@ p {
   margin-top: -10%;
   font-family: Moon, sans-serif;
   color: #c1bfbc;
-  font-size: 14px;
+  font-size: 16px;
   text-align: center;
   letter-spacing: 3px;
 }
@@ -796,6 +796,7 @@ p {
 .section-7.aboutme {
   padding-top: 0%;
   padding-bottom: 28%;
+  text-align: center;
 }
 
 .container-7 {
@@ -812,8 +813,8 @@ p {
 .container-7.about_mee {
   margin-top: 0%;
   padding-top: 3%;
-  padding-right: 8%;
-  padding-left: 3%;
+  padding-right: 0%;
+  padding-left: 0%;
 }
 
 .div-block-20 {
@@ -1058,8 +1059,15 @@ p {
 .text-span.aboutmee {
   float: none;
   color: grey;
-  font-size: 1em;
+  font-size: 14px;
+  line-height: 20px;
   text-align: left;
+}
+
+.text-span.aboutmee.about2 {
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: 1px;
 }
 
 .text-span-2 {
@@ -2516,6 +2524,15 @@ p {
 .link-8 {
   color: #b9b4b4;
   text-decoration: underline;
+}
+
+.paragraph-7 {
+  display: inline-block;
+  width: 100%;
+  margin-top: 79px;
+  color: grey;
+  font-size: 16px;
+  text-align: center;
 }
 
 @media (max-width: 991px) {
