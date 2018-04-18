@@ -2328,6 +2328,11 @@ p {
   width: 10%;
 }
 
+.image-31 {
+  padding-right: 4px;
+  padding-left: 4px;
+}
+
 .link-3 {
   color: #000;
   text-decoration: none;
@@ -2534,6 +2539,11 @@ p {
   color: grey;
   font-size: 16px;
   text-align: center;
+}
+
+.link-9 {
+  color: #1c907f;
+  text-decoration: underline;
 }
 
 @media (max-width: 991px) {
