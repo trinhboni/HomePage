@@ -3305,6 +3305,10 @@ figcaption {
   width: 75%;
 }
 
+.image-76.image-49 {
+  width: auto;
+}
+
 .image-77 {
   position: relative;
   left: 27px;
@@ -3314,10 +3318,15 @@ figcaption {
 
 .image-77.image-49 {
   top: -250px;
+  width: auto;
 }
 
 .image-78 {
   width: 75%;
+}
+
+.image-78.image-49 {
+  width: auto;
 }
 
 .video {
