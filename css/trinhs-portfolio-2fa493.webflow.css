@@ -1847,13 +1847,14 @@ figcaption {
 }
 
 .div-block-6.tb_trigger.image-49 {
-  width: auto;
-  padding-top: 62px;
-  padding-bottom: 62px;
+  width: 70%;
+  padding-top: 31px;
+  padding-bottom: 31px;
 }
 
 .div-block-6.tb_trigger.image-49.pj1 {
-  width: 500px;
+  width: 70%;
+  padding-right: 46px;
   border-color: #2f3857;
   box-shadow: 0 0 20px 5px rgba(0, 0, 0, 0.19);
 }
