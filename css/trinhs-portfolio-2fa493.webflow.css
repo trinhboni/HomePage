@@ -1416,8 +1416,17 @@ figcaption {
 }
 
 .div-block.p2_front.pj3 {
+  display: -ms-grid;
+  display: grid;
   margin-right: 12%;
   margin-left: 12%;
+  grid-auto-columns: 1fr;
+  grid-column-gap: 20px;
+  grid-row-gap: 0px;
+  -ms-grid-columns: minmax(200px, 2.25fr);
+  grid-template-columns: minmax(200px, 2.25fr);
+  -ms-grid-rows: auto minmax(7vw, 1fr) auto auto;
+  grid-template-rows: auto minmax(7vw, 1fr) auto auto;
   border-color: #fd523f;
   color: #fd523f;
 }
@@ -4019,7 +4028,7 @@ figcaption {
 }
 
 .image-92 {
-  width: 75%;
+  width: auto;
 }
 
 @media screen and (max-width: 991px) {
@@ -5718,6 +5727,9 @@ figcaption {
   .image-33 {
     padding-right: 5%;
     padding-left: 0%;
+  }
+  .image-33.image-49 {
+    padding-right: 0%;
   }
   .text-span-7.image-49 {
     text-align: left;
