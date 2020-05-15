@@ -1648,13 +1648,15 @@ figcaption {
 }
 
 .image-33 {
+  width: auto;
   margin-top: 20px;
-  padding-right: 35%;
-  padding-left: 0px;
+  padding-right: 32%;
+  padding-left: 10%;
 }
 
 .image-33.image-49 {
   width: auto;
+  float: none;
 }
 
 .text-span-7 {
