@@ -4113,7 +4113,8 @@ figcaption {
   position: relative;
   top: 223px;
   z-index: 1;
-  font-family: Gotham, sans-serif;
+  padding-left: 10px;
+  font-family: Montserrat, sans-serif;
   color: #7b8ec8;
   font-size: 17px;
   letter-spacing: 2px;
@@ -4122,10 +4123,11 @@ figcaption {
 .heading-13 {
   position: relative;
   top: 97px;
-  font-family: Gotham, sans-serif;
+  font-family: Montserrat, sans-serif;
   color: #7b8ec8;
   font-size: 55px;
   font-weight: 700;
+  letter-spacing: 2px;
 }
 
 .navbar-5 {
