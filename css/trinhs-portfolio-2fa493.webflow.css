@@ -4153,7 +4153,8 @@ figcaption {
   display: -ms-grid;
   display: grid;
   width: auto;
-  padding-left: 0px;
+  padding-right: 5%;
+  padding-left: 5%;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
   -ms-flex-pack: center;
@@ -4178,6 +4179,8 @@ figcaption {
 
 .div-block-19.tipsy_tab {
   height: auto;
+  padding-right: 5%;
+  padding-left: 5%;
   -webkit-box-pack: stretch;
   -webkit-justify-content: stretch;
   -ms-flex-pack: stretch;
@@ -6813,6 +6816,16 @@ figcaption {
   }
   .link-block-4 {
     width: 50vw;
+  }
+  .div-block-19 {
+    margin-top: 10%;
+    padding-right: 5%;
+    padding-left: 5%;
+    -ms-grid-columns: 1fr 1fr 1.5fr;
+    grid-template-columns: 1fr 1fr 1.5fr;
+  }
+  .div-block-19.tipsy_tab {
+    margin-top: 5%;
   }
   .text-span-24 {
     font-size: 12px;
@@ -34244,10 +34257,26 @@ figcaption {
     grid-column-start: span 1;
     -ms-grid-column-span: 1;
     grid-column-end: span 1;
-    -ms-grid-row: span 1;
-    grid-row-start: span 1;
-    -ms-grid-row-span: 1;
-    grid-row-end: span 1;
+    -ms-grid-row: span 2;
+    grid-row-start: span 2;
+    -ms-grid-row-span: 2;
+    grid-row-end: span 2;
+    -ms-grid-column-align: center;
+    justify-self: center;
+    -ms-grid-row-align: center;
+    align-self: center;
+  }
+  #w-node-c60ab7815b01-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
+  #w-node-3cbe81a2638e-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
+  #w-node-ab1e303300cf-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
   }
   #w-node-54e49a1ba553-9b88594a {
     -ms-grid-column-align: center;
@@ -34281,6 +34310,14 @@ figcaption {
     -ms-grid-row-align: center;
     align-self: center;
   }
+  #w-node-331d2760e9dc-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
+  #w-node-331d2760e9df-9b88594a {
+    -ms-grid-column-align: end;
+    justify-self: end;
+  }
   #w-node-9628a9161516-9b88594a {
     -ms-grid-column-align: center;
     justify-self: center;
@@ -34312,8 +34349,8 @@ figcaption {
     grid-row-start: span 3;
     -ms-grid-row-span: 3;
     grid-row-end: span 3;
-    -ms-grid-column-align: start;
-    justify-self: start;
+    -ms-grid-column-align: center;
+    justify-self: center;
     -ms-grid-row-align: center;
     align-self: center;
   }
@@ -34366,6 +34403,10 @@ figcaption {
     -ms-grid-row-align: center;
     align-self: center;
   }
+  #w-node-b2ae4e41813f-9b88594a {
+    -ms-grid-column-align: start;
+    justify-self: start;
+  }
   #w-node-1799eb90f55a-9b88594a {
     -ms-grid-column-align: center;
     justify-self: center;
@@ -34397,6 +34438,18 @@ figcaption {
     justify-self: start;
     -ms-grid-row-align: center;
     align-self: center;
+  }
+  #w-node-6f9fc543759b-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
+  #w-node-6f9fc543759e-9b88594a {
+    -ms-grid-column-align: center;
+    justify-self: center;
+  }
+  #w-node-6f9fc54375a1-9b88594a {
+    -ms-grid-column-align: end;
+    justify-self: end;
   }
   #w-node-5570764c4724-bd88594f {
     -ms-grid-row: 1;
